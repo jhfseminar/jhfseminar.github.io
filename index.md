@@ -12,7 +12,5 @@ Co-organizers:
 
 ### Contact Information
 Email: jhfseminar@gmail.com
-Bluesky: [@nathanblascak](https://bsky.app/profile/nathanblascak.bsky.social)  
-Twitter: [@nathanblascak](https://twitter.com/NathanBlascak)
 
 Disclaimer: **The views here are our own and necessarily those of our employers.**
