@@ -1,7 +1,5 @@
 ## Junior Household Finance Seminar
 
-## About
-
 This is the website for the Junior Household Finance (JHF) Virtual Seminar. 
 
 Co-organizers:
