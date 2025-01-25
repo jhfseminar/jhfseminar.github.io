@@ -1,5 +1,67 @@
 ## Previous Seminars
 
+### Spring 2024
+March 1st:  
+Nathan Blascak(Philly Fed), ''Health Insurance Subsidies as an Income Stabilizer: A Regression Discontinuity Analysis of the Affordable Care Act''
+
+March 29th:  
+Helen Banga (CFPB), ''Understanding the Unequal Costs of Native American Homeownership''
+
+April 12th:  
+Sheisha Kulkarni (UVA), ''Searching with Inaccurate Priors in Consumer Credit Markets''
+
+April 26th:  
+David Low (CFPB), ''Expense Shocks Matter''
+Sharada Sridhar (Georgia Tech), ''Credit and Consumption''
+
+May 10th:  
+Alison Cole (ASU), ''Financial Advisors and Retirees' Risk Taking''
+
+May 24th:  
+Nate Pattison (SMU), ''Eligibility Screening in Consumer Bankruptcy''
+
+### Fall 2023
+September 22nd:  
+Judie Ricks and Ryan Sandler (CFPB), ''Effects of Entering the Credit Market in a Recession''
+
+October 13th:  
+Michaela Pagel (Columbia), ''Consumer Surveillance and Financial Fraud''
+
+October 20th:  
+Sharada Sridhar (Columbia), ''Predation and Pricing in the Payday Loan Market''
+
+November 3rd:  
+Adam Jørring (Boston College), ''Who Benefits from Financial Technology? A Trade-off between Credit Access and Price Discrimination''
+
+### Spring 2022
+March 25th:  
+Ben McCartney (Purdue-Krannert), ''Household Finance, Politics, and Other Keywords: Evidence from a Happening''
+
+April 1st:  
+Emily Williams (HBS), ''Friends and Family Money: P2P Transfers and Financially Fragile Consumers''
+
+April 22nd:  
+Melody Harvey (Wisconsin), ''Does Financial Education in High School Affect Retirement Savings in Adulthood?''
+
+May 20th:  
+Sanket Korgaonkar (UVA), ''The Agency Costs of (RMBS) Tranching''
+
+June 10th:  
+David Low (CFPB), ''Are Deferred-Interest Rate Credit Card Borrowers Overconfident?''
+
+### Fall 2021
+October 29th:  
+Joaquin Saldain (UVA), ''A Quantitative Model of High-Cost Consumer Credit''
+
+November 12th:  
+Ray Kluender (HBS), ''The Impact of Financial Assistance Policies on Health Care Utilization''
+
+December 3rd:  
+Samir Mahmoudi (Georgia State University), ''Financial Networks and the Inter-regional Sharing of Climate Risks: Evidence from Hurricane Katrina''
+
+December 10th:  
+Nathaniel Pattison (SMU), ''A Tale of Two Bankruptcies: Geographic Differences in Bankruptcy Chapter Choice''
+
 ### Spring 2021
 February 19th:  
 Sheisha Kulkarni (UVA), ''The Debt Relief Project – Randomizing Bankruptcy Cost''
@@ -40,7 +102,8 @@ Brittany Lewis (Indiana-Kelley,) ''Do Credit Policies Differentially Affect Raci
 June 4th:  
 Carlos Avenancio-León (Indiana), ''The Assessment Gap: Racial Inequalities in Property Taxation''
 
-June 11th: Sasha Indarte (UPenn-Wharton), ''Explaining Disparities in Personal Bankruptcy Outcomes''
+June 11th:  
+Sasha Indarte (UPenn-Wharton), ''Explaining Disparities in Personal Bankruptcy Outcomes''
 
 ### Fall 2020
 September 11th:  
@@ -81,5 +144,4 @@ Manisha Padi (UC Berkeley Law), ''Mortgage Servicing and Financial Distress"
 Scott Nelson (U Chicago-Booth), ''How Costly is Noise? Data and Disparities in the US Mortgage Market''
 
 December 18th:  
-Ben McCartney (Purdue-Krannert), ''Does Financial Experience Matter? Minor Bank Account Laws, Account
-Ownership, and Downstream Behaviors''
+Ben McCartney (Purdue-Krannert), ''Does Financial Experience Matter? Minor Bank Account Laws, Account Ownership, and Downstream Behaviors''
