@@ -8,6 +8,8 @@ Co-organizers:
 [Sharada Sridhar](https://www.sharadasridhar.com/)  
 [Nathan Blascak](https://nathanblascak.github.io/)  
 
+You can find a list of previous seminars <a href="/previous_seminars.html">here</a>.
+
 ### Contact Information
 Email: jhfseminar@gmail.com
 
