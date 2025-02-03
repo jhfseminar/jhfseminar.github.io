@@ -2,6 +2,8 @@
 
 This is the website for the Junior Household Finance (JHF) Virtual Seminar. 
 
+We aim to provide a constructive, supportive, and rigorous forum of knowledgeable peers that can help you answer these uestions. Our audience is sually composed of both professors and government economists (Federal Reserve, CFPB, etc.).
+
 Co-organizers:
 
 [Sheisha Kulkarni](https://www.sheishakulkarni.com/)  
