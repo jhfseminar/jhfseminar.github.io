@@ -1,4 +1,4 @@
-## Previous Seminars
+## <span style="color:#3a6641;">Previous Seminars</span>
 
 ### Fall 2024 
 October 25th: 
