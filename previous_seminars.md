@@ -1,8 +1,21 @@
 ## Previous Seminars
 
+### Fall 2024 
+October 25th: 
+Alyssa Brown (CFPB), ''Sharing Credit''
+
+November 8th: 
+Sharada Sridhar (Georgia Tech), ''Bank Fees and Household Financial Wellbeing''
+
+November 22nd:
+Charlotte Haendler (SMU), ''Does Social Capital Matter For Banking? Evidence from Community Banks''
+
+December 6th: 
+Augustin Hurtado (UMD), ''Measuring Hispanic Immigration Using Consumption Data''
+
 ### Spring 2024
 March 1st:  
-Nathan Blascak(Philly Fed), ''Health Insurance Subsidies as an Income Stabilizer: A Regression Discontinuity Analysis of the Affordable Care Act''
+Nathan Blascak (Philly Fed), ''Health Insurance Subsidies as an Income Stabilizer: A Regression Discontinuity Analysis of the Affordable Care Act''
 
 March 29th:  
 Helen Banga (CFPB), ''Understanding the Unequal Costs of Native American Homeownership''
@@ -20,7 +33,7 @@ Alison Cole (ASU), ''Financial Advisors and Retirees' Risk Taking''
 May 24th:  
 Nate Pattison (SMU), ''Eligibility Screening in Consumer Bankruptcy''
 
-### Fall 2023
+### Fall 2022
 September 22nd:  
 Judie Ricks and Ryan Sandler (CFPB), ''Effects of Entering the Credit Market in a Recession''
 
