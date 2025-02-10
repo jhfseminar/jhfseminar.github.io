@@ -1,16 +1,16 @@
 ## <span style="color:#3a6641;">Previous Seminars</span>
 
 ### Fall 2024 
-October 25th: 
+October 25th:  
 Alyssa Brown (CFPB), ''Sharing Credit''
 
-November 8th: 
+November 8th:  
 Sharada Sridhar (Georgia Tech), ''Bank Fees and Household Financial Wellbeing''
 
-November 22nd:
+November 22nd:  
 Charlotte Haendler (SMU), ''Does Social Capital Matter For Banking? Evidence from Community Banks''
 
-December 6th: 
+December 6th:  
 Augustin Hurtado (UMD), ''Measuring Hispanic Immigration Using Consumption Data''
 
 ### Spring 2024
