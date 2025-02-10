@@ -2,7 +2,7 @@
 
 Welcome to the Junior Household Finance (JHF) Virtual Seminar homepage!  
 
-We provide a constructive, supportive, and rigorous forum of knowledgeable peers to help you answer these questions. Our audience includes both professors and government economists (Federal Reserve, CFPB, etc.). 
+We provide a constructive, supportive, and rigorous forum of knowledgeable peers to help you answer these questions. Our audience includes both professors and government economists (Federal Reserve, CFPB, etc.).  
 
 **You can find a list of previous seminars <a href="/previous_seminars.html">here</a>.**  
 
