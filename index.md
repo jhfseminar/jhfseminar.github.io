@@ -30,7 +30,7 @@ Stay informed about upcoming seminar dates and available presenter slots!
 </style>
 <div id="mc_embed_signup">
     <form action="https://gmail.us11.list-manage.com/subscribe/post?u=b85a2288d91554f370fe26557&amp;id=db57d5dbd8&amp;f_id=00fac8e3f0" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
-        <div id="mc_embed_signup_scroll"><h2>Subscribe</h2>
+        <div id="mc_embed_signup_scroll">
             <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
             <div class="mc-field-group"><label for="mce-EMAIL">Email Address <span class="asterisk">*</span></label><input type="email" name="EMAIL" class="required email" id="mce-EMAIL" required="" value=""></div><div class="mc-field-group"><label for="mce-FNAME">First Name <span class="asterisk">*</span></label><input type="text" name="FNAME" class="required text" id="mce-FNAME" value="" required=""></div><div class="mc-field-group"><label for="mce-LNAME">Last Name <span class="asterisk">*</span></label><input type="text" name="LNAME" class="required text" id="mce-LNAME" value="" required=""></div><div class="mc-field-group"><label for="mce-COMPANY">Institution <span class="asterisk">*</span></label><input type="text" name="COMPANY" class="required text" id="mce-COMPANY" value="" required=""></div>
         <div id="mce-responses" class="clear foot">
