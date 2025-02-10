@@ -1,18 +1,18 @@
 ## Junior Household Finance Seminar
 
-This is the website for the Junior Household Finance (JHF) Virtual Seminar. 
+Welcome to the Junior Household Finance (JHF) Virtual Seminar homepage!  
 
-We aim to provide a constructive, supportive, and rigorous forum of knowledgeable peers that can help you answer these uestions. Our audience is sually composed of both professors and government economists (Federal Reserve, CFPB, etc.).
+We provide a constructive, supportive, and rigorous forum of knowledgeable peers to help you answer these questions. Our audience includes both professors and government economists (Federal Reserve, CFPB, etc.).  
 
-Co-organizers:
+### Co-organizers:  
 
+[Nathan Blascak](https://nathanblascak.github.io/)  
 [Sheisha Kulkarni](https://www.sheishakulkarni.com/)  
 [Sharada Sridhar](https://www.sharadasridhar.com/)  
-[Nathan Blascak](https://nathanblascak.github.io/)  
 
-You can find a list of previous seminars <a href="/previous_seminars.html">here</a>.
+**You can find a list of previous seminars <a href="/previous_seminars.html">here</a>.**  
 
-### Contact Information
-Email: jhfseminar@gmail.com
+### Contact Information  
+**Email:** jhfseminar@gmail.com  
 
-Disclaimer: **The views here are our own and necessarily those of our employers.**
+**Disclaimer:** The views expressed here are our own and do not necessarily reflect those of our employers.  
