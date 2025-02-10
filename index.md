@@ -6,18 +6,18 @@ We provide a constructive, supportive, and rigorous forum of knowledgeable peers
 
 **You can find a list of previous seminars <a href="/previous_seminars.html">here</a>.**  
 
-### Co-organizers:  
+### <span style="color:#3a6641;">Co-organizers:</span>  
 
 [Nathan Blascak](https://nathanblascak.github.io/)  
 [Sheisha Kulkarni](https://www.sheishakulkarni.com/)  
 [Sharada Sridhar](https://www.sharadasridhar.com/)  
 
-### Contact Information  
+### <span style="color:#3a6641;">Contact Information</span>  
 **Email:** jhfseminar@gmail.com  
 
 **Disclaimer:** The views expressed here are our own and do not necessarily reflect those of our employers.  
 
-### List-serv Sign up
+### <span style="color:#3a6641;">List-serv Sign up</span>
 
 Stay informed about upcoming seminar dates and available presenter slots!  
 
