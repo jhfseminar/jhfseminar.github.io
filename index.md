@@ -17,9 +17,9 @@ We provide a constructive, supportive, and rigorous forum of knowledgeable peers
 
 **Disclaimer:** The views expressed here are our own and do not necessarily reflect those of our employers.  
 
-## <span style="color:#3a6641;">List-serv Sign up</span>
+## <span style="color:#3a6641;">Sign up!</span>
 
-Stay informed about upcoming seminar dates and available presenter slots!  
+Stay informed about upcoming seminar dates and available presenter slots.   
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
