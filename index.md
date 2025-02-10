@@ -1,4 +1,4 @@
-## Junior Household Finance Seminar
+## <span style="color:#3a6641;">Junior Household Finance Seminar</span>
 
 Welcome to the Junior Household Finance (JHF) Virtual Seminar homepage!  
 
@@ -17,7 +17,7 @@ We provide a constructive, supportive, and rigorous forum of knowledgeable peers
 
 **Disclaimer:** The views expressed here are our own and do not necessarily reflect those of our employers.  
 
-## List-serv Sign up
+### List-serv Sign up
 
 Stay informed about upcoming seminar dates and available presenter slots!  
 
