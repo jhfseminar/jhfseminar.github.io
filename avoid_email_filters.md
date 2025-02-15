@@ -6,4 +6,4 @@
 ### For Gmail
 [Link](https://downtimemonkey.com/blog/how-to-whitelist-an-email-address-in-gmail.php) on how to whitelist our emails. We also recommend selecting "Categorize as: Primary" in addition to "Never send to Spam" to prevent our emails from landing in your Promotions tab. (See reference image below.)
 
-![Alt text](gmail_instructions.png)
+<img src="gmail_instructions.png" alt="My Image" style="border: 5px solid red;">
