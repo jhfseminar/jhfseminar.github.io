@@ -19,7 +19,7 @@ We provide a constructive, supportive, and rigorous forum of knowledgeable peers
 
 ## <span style="color:#3a6641;">Sign up!</span>
 
-Stay informed about upcoming seminar dates and available presenter slots. **Psst:** Find instructions on how to ensure our emails get through your pesky inbox filter <a href="/avoid_email_filters.html"><span style="color:#6ba376;">here</span></a>. 
+Stay informed about upcoming seminar dates and available presenter slots. **Psst!:** Find instructions on how to ensure our emails get through your pesky inbox filter <a href="/avoid_email_filters.html"><span style="color:#6ba376;">here</span></a>. 
 
 <div id="mc_embed_shell">
       <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css">
